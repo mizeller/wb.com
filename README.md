@@ -106,3 +106,8 @@ Video instructions: https://youtu.be/PPxenu7IjGM
     </div>
   </a>
 </p>
+
+
+## NOTE
+- start local development w/ `./scripts/local-dev.sh start` to start backend and frontend locally :-)
+- create admin user for medusa with: `npx medusa user -e admin@whitebook.local -p Whitebook2025` (run inside `backend/`)
