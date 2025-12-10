@@ -109,5 +109,9 @@ Video instructions: https://youtu.be/PPxenu7IjGM
 
 
 ## NOTE
+- [local deployment?](https://funkyton.cm/how-to-run-your-medusajs-2-0-boilerplate-locally/)
+    - [medusa local](http://localhost:9000/app)
+        - `NOTE` - connected to production database on railway!
 - start local development w/ `./scripts/local-dev.sh start` to start backend and frontend locally :-)
 - create admin user for medusa with: `npx medusa user -e admin@whitebook.local -p Whitebook2025` (run inside `backend/`)
+- 
